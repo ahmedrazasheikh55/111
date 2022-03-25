@@ -1,0 +1,11 @@
+ If you want to see hidden file in git 
+ ls -la
+ $ ls -la
+total 50
+drwxr-xr-x 1 Home 197121     0 Mar 23 13:00 ./
+drwxr-xr-x 1 Home 197121     0 Mar 23 13:00 ../
+drwxr-xr-x 1 Home 197121     0 Mar 23 13:13 .git/
+-rw-r--r-- 1 Home 197121     9 Mar 23 12:46 .gitignore
+drwxr-xr-x 1 Home 197121     0 Mar 22 09:59 images/
+-rw-r--r-- 1 Home 197121 26085 Mar 22 18:35 index.html
+-rw-r--r-- 1 Home 197121   465 Mar 22 18:37 style.css

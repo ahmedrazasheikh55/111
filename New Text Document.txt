@@ -1,0 +1,60 @@
+1.  if you want to  add your name then you need
+    git config --  global user.name Ahmed Raza
+
+2.  if you want to  add your email then you need
+      git config --  global user.email bhaia9036@gmail.com
+
+3. if you want to add file in git
+      touch filename
+4. The thing which is soo big we do not need to puch then we a file in this folder
+         .gitignore
+5. if you want to see hidden files
+
+6. if you want to add 
+     git add .
+7. if you want to add file fro git hub
+      git remote add origin "url"
+
+1. if you want to add a project then you need
+     mkdir project
+2. if you want to go inside the project  then you need
+      cd project
+3.   if you want to see hiden file
+        ls -a
+4. if you want to delete file 
+       rm -rf file name
+5.if you want to  recover a  delete file 
+     git stash
+6. if you want to add file fro git hub
+      git remote add origin "url"
+7.  git branches
+
+8. git remote add origin https://github.com/ahmedrazasheikh55/raza.git
+             
+
+9. git remote -v
+git push origin master
+
+10. if you want to clone file than you need 
+      git clone link 
+11. if you want to change another person project than you ae not directly change the projet you need 
+       fork 
+ 
+12. git remote add upstrem url
+13. if you want to go on path
+directly then you need cd" "
+       simple process
+ssh-keygen -t ed25519 -C "your_email@example.com"
+cat then paste link
+agar kese na code ma change kia ha github website sa agar hamein wo acha lga to hum us git pull-u origin master ka through add kar sakte ha
+If you want to see a diffrence in modified file then you use git diff   
+If you want to see a diffrence in staged file then you use git diff --staged file name 
+If you want to go a old commit  then you use git checkout file name
+git init.
+git add.
+git commit.
+git status.
+git config.
+git branch.
+git checkout.
+git merge
